@@ -53,7 +53,7 @@ def add_me_btn() -> InlineKeyboardMarkup:
 
 def add_me_article() -> InlineQueryResultArticle:
     return InlineQueryResultArticle(
-        title="❖ Raushan Music",
+        title="❖ yash music",
         description="Tap to send the Add Me card in this chat 🎵",
         thumb_url="https://files.catbox.moe/qv2ob4.jpg",
         input_message_content=InputTextMessageContent(ADD_ME_PROMO_TEXT),
